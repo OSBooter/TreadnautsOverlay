@@ -1,5 +1,5 @@
 # TreadnautsOverlay
-My AutoSplitters
+A preset for [Treadnauts](https://www.treadnauts.com/) controls, great for [speed running](https://www.youtube.com/watch?v=FsaK6_q7uAw) :)
 
 # [Treadnauts Key Overlay for v1.00](https://github.com/OSBooter/TreadnautsOverlay)
 + The 9 keys set are Z, X, Left Shift, Cursor Up, Cursor Down, Cursor Left, Cursor Right, Enter, and Escape Keys
