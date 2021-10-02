@@ -10,7 +10,7 @@ A preset for [Treadnauts](https://www.treadnauts.com/) controls, great for [spee
 # How To Setup
 1. You'll need [OBS Studio](https://obsproject.com/)
 
-2. You also need to properly install [Input Overlay Plugin](https://github.com/univrsal/input-overlay/releases/tag/v4.8)
+2. You also need to properly install [Input Overlay Plugin](https://github.com/univrsal/input-overlay)
 
 3. Within a scene, add an input overlay source.
 
